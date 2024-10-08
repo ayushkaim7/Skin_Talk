@@ -2,15 +2,10 @@
 
 A new Flutter project.
 
-## Getting Started
+Flutter Project that I built in 2 days in a hackathon , with a team of backend and ML devs.
+SkinTalk scans the skin and based on tha ML model it gives user skin recommendations
+User can also appoints the nearby and suitable dermatologist at a certain price.
 
-This project is a starting point for a Flutter application.
+## backend model not working right now ,
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This was just a prototype.
